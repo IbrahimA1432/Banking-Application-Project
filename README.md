@@ -19,7 +19,7 @@ This project is a **Bank Application** that allows users to perform typical bank
 - **Account Monitoring**: Managers can review and update customer data.
 - **Data Persistence**: Customer information is stored in .txt files for persistence and can be modified or deleted as needed.
 
-## Architectrue Overview
+## Architecture Overview
 The application follows an **MVC (Model-View-Controller)** pattern:
 - **Model**: Defines the logic behind customer states (Silver, Gold, Platinum) and transaction management.
 - **View**: Provides the interface for both customers and managers to interact with the application.
