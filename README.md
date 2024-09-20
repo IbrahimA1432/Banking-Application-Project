@@ -1,1 +1,2 @@
-# Banking-Application-Project
+# Banking Application Project
+This application allows the user to deposit and withdraw money, changing the value of money in their bank account. As the amount of money in their bank account changes, the membership level of their account will change as well, varying between silver, gold, and platinum. Depending on the level of membership, the user will receive discounts on purchases that can also be made through the app.
